@@ -1,0 +1,5 @@
+# This is a placeholder script for your `.hxc` file.
+# Add your custom logic or functionality here.
+
+# Example: Print a message to the console
+print("Hello, this is your script.hxc file!")
