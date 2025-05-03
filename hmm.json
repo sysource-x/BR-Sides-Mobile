@@ -33,6 +33,13 @@
       "url": "https://github.com/DoidoTeam/flxanimate-doido"
     },
     {
+      "name": "hxvlc",
+      "type": "git",
+      "dir": null,
+      "ref": "70e7f5f3e76d526ac6fb8f0e6665efe7dfda589d",
+      "url": "https://github.com/MAJigsaw77/hxvlc"
+    },
+    {
       "name": "tjson",
       "type": "git",
       "dir": null,
