@@ -36,7 +36,7 @@
       "name": "hxvlc",
       "type": "git",
       "dir": null,
-      "ref": "70e7f5f3e76d526ac6fb8f0e6665efe7dfda589d",
+      "ref": "main",
       "url": "https://github.com/MAJigsaw77/hxvlc"
     },
     {
@@ -57,7 +57,7 @@
       "name": "hxdiscord_rpc",
       "type": "git",
       "dir": null,
-      "ref": "19518713cbd59fc5705f899144fffdbf9ae6695c",
+      "ref": "main",
       "url": "https://github.com/MAJigsaw77/hxdiscord_rpc"
     },
     {
